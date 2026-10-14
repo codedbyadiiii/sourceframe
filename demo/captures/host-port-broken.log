@@ -1,0 +1,15 @@
+app-1  | Waiting for database (1/10): connection refused
+app-1  | Waiting for database (2/10): connection refused
+app-1  | Waiting for database (3/10): connection refused
+app-1  | Waiting for database (4/10): connection refused
+app-1  | Waiting for database (5/10): connection refused
+app-1  | Waiting for database (6/10): connection refused
+app-1  | Waiting for database (7/10): connection refused
+app-1  | Waiting for database (8/10): connection refused
+app-1  | Waiting for database (9/10): connection refused
+app-1  | Waiting for database (10/10): connection refused
+app-1  | Startup database check failed; API starts so /health can report 503.
+app-1  | INFO:     Started server process [1]
+app-1  | INFO:     Waiting for application startup.
+app-1  | INFO:     Application startup complete.
+app-1  | INFO:     Uvicorn running on http://0.0.0.0:8080 (Press CTRL+C to quit)
