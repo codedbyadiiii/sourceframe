@@ -1,8 +1,8 @@
-# CloudSage AI
+# Sourceframe
 
-**Diagnose deployment failures with evidence.** CloudSage connects application logs to Docker Compose configuration, asks Gemma for a structured investigation, validates each source citation against the submitted text, and presents proposed changes for a human to review and apply.
+**Diagnose deployment failures with evidence.** Sourceframe connects application logs to Docker Compose configuration, asks Gemma for a structured investigation, validates each source citation against the submitted text, and presents proposed changes for a human to review and apply.
 
-CloudSage does not guarantee that a diagnosis or proposed change is correct. Matching citations show traceability, not causality. It sends best-effort redacted content to a hosted Google model and requires internet access.
+Sourceframe does not guarantee that a diagnosis or proposed change is correct. Matching citations show traceability, not causality. It sends best-effort redacted content to a hosted Google model and requires internet access.
 
 ## Architecture
 
